@@ -57,10 +57,12 @@ A total of **244 ancient and modern reference individuals** were extracted from 
 ### Visualizations
 
 #### Classical MDS of Ancient Near Eastern Populations
-![MDS Ordination](outputs/figures/mds_anatolia_neolithic.png)
+<img width="2850" height="1800" alt="mds_anatolia_neolithic png" src="https://github.com/user-attachments/assets/531f9a70-d5aa-43ab-9fc3-a7dae158bc31" />
+
 
 #### Gene Flow Signals via $f_4$-Statistics (`qpDstat`)
-![f4 Forest Plot](outputs/figures/f4_statistics_plot.png)
+<img width="3150" height="1860" alt="f4_statistics_plot png" src="https://github.com/user-attachments/assets/060a3ed4-b6e3-48f3-a5fc-0b4be34451b7" />
+
 
 ---
 
