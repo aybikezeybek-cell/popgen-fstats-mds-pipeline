@@ -49,8 +49,8 @@ A total of **244 ancient and modern reference individuals** were extracted from 
 ### Key Evolutionary Findings
 
 - **Anatolian Neolithic Continuity:** All Anatolian Neolithic groups (`Turkey_PPN`, `Turkey_Catalhoyuk_EN/MN/LN`, and `Turkey_N`) exhibit tightly clustered, high shared genetic drift ($f_3 \approx 0.297 - 0.300$, $Z > 125$) in MDS space, confirming strong regional genetic continuity across the aceramic-to-ceramic transition.
-- **Levantine Gene Flow into Pottery Neolithic Anatolia:** The test $f_4(\text{Turkey\_N}, \text{Turkey\_PPN}; \text{Jordan\_PPNB}, \text{Mbuti}) = +0.000848$ ($Z = +6.0$) reveals statistically significant excess allele sharing between Pottery Neolithic Anatolia (`Turkey_N`) and Levantine PPNB (`Jordan_PPNB`) compared to earlier Pre-Pottery Anatolian farmers.
-- **Zagros Divergence:** Early Neolithic Zagros (`Iran_GanjDareh_N`) separates distinctly along MDS Dimension 1 ($19.2\%$ variance explained), showing no significant direct gene flow into Anatolian Neolithic populations during the same horizon ($f_4(\text{Turkey\_N}, \text{Turkey\_PPN}; \text{Iran\_GanjDareh\_N}, \text{Mbuti}) = +0.000020$, $Z = +0.2$).
+- **Levantine Gene Flow into Pottery Neolithic Anatolia:** The test `f4(Turkey_N, Turkey_PPN; Jordan_PPNB, Mbuti) = +0.000848` ($Z = +6.0$) reveals statistically significant excess allele sharing between Pottery Neolithic Anatolia (`Turkey_N`) and Levantine PPNB (`Jordan_PPNB`) compared to earlier Pre-Pottery Anatolian farmers.
+- **Zagros Divergence:** Early Neolithic Zagros (`Iran_GanjDareh_N`) separates distinctly along MDS Dimension 1 ($19.2\%$ variance explained), showing no significant direct gene flow into Anatolian Neolithic populations during the same horizon (`f4(Turkey_N, Turkey_PPN; Iran_GanjDareh_N, Mbuti) = +0.000020`, $Z = +0.2$).
 
 ---
 
